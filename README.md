@@ -1,4 +1,4 @@
-# # Clinical Trial Recruitment Analytics — SQL Project
+# A Workflow and Data Analysis of Clinical Trial Recruitment Efficiency 
 > Based on real clinical operations experience managing a two-phase patient tracking system across 10-15 clinical trial sites.
 
 ---
